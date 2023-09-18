@@ -1,0 +1,7 @@
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe.config
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.pdb
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csproj.AssemblyReference.cache
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csproj.CoreCompileInputs.cache
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.exe
+E:\BATU\C# Automation System Bootcamp\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.pdb
